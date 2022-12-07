@@ -1,0 +1,76 @@
+{
+  "message": "Data in csv for first 50 records.",
+  "data": {
+    "Make": {
+      "UNIFORMITY": "Yes",
+      "DUPLICATES": "Yes",
+      "MISSING_VALUES": "No",
+      "OUTLIERS": "No",
+      "data": {
+        "ACURA": 12,
+        "ALFA ROMEO": 1,
+        "ASTON MARTIN": 7,
+        "AUDI": 29
+      }
+    },
+    "Model": {
+      "UNIFORMITY": "Yes",
+      "DUPLICATES": "Yes",
+      "MISSING_VALUES": "Yes",
+      "OUTLIERS": "No",
+      "data": {
+        "ILX": 2,
+        "ILX HYBRID": 1,
+        "MDX 4WD": 1,
+        "RDX AWD": 1,
+        "RLX": 1,
+        "TL": 1,
+        "TL AWD": 2,
+        "TSX": 3,
+        "4C": 1,
+        "DB9": 1,
+        "RAPIDE": 1,
+        "V8 VANTAGE": 2,
+        "V8 VANTAGE S": 2,
+        "VANQUISH": 1,
+        "A4": 1,
+        "A4 QUATTRO": 2,
+        "A5 CABRIOLET QUATTRO": 1,
+        "A5 QUATTRO": 2,
+        "A6 QUATTRO": 2,
+        "A6 QUATTRO TDI (modified)": 1,
+        "A7 QUATTRO": 1,
+        "A7 QUATTRO TDI (modified)": 1,
+        "A8": 2,
+        "A8 TDI (modified)": 1,
+        "A8L": 3,
+        "A8L TDI (modified)": 1,
+        "ALLROAD QUATTRO": 1,
+        "Q5": 1,
+        "": 1,
+        " TDI (modified)": 1,
+        "Q5 HYBRID": 1,
+        "Q7": 1,
+        "Q7 TDI (modified)": 1,
+        "R8": 4
+      }
+    },
+    "Vehicle_Class": {
+      "UNIFORMITY": "Yes",
+      "DUPLICATES": "Yes",
+      "MISSING_VALUES": "No",
+      "OUTLIERS": "No",
+      "data": {
+        "COMPACT": 9,
+        "SUV - SMALL": 6,
+        "MID-SIZE": 12,
+        "TWO-SEATER": 9,
+        "MINICOMPACT": 2,
+        "SUBCOMPACT": 4,
+        "FULL-SIZE": 4,
+        "STATION WAGON - SMALL": 1,
+        "SUV - STANDARD": 2
+      }
+    }
+  }
+}

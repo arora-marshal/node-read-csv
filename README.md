@@ -28,3 +28,8 @@ How to approach the task:
 - We also would like to see what's important to you (e.g., if you want to write a test, feel free to do it)
 - Please timebox the excercise to 2-4h, we know you have a lot to do on the side and this should be no big stress factor
 - Once you're done, please send a zipped git-folder back, or just commit it to Github/Gitlab/... and send us the link
+
+
+## Output View
+![view](./screenshot1.png)
+![view](./screenshot2.png)
