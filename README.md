@@ -1,4 +1,4 @@
-# DQC [Node] Tech Challenge
+# [Node] Tech Challenge
 
 Thank you for participating!
 We appreciate the time you put into our conversations and this excercise.
